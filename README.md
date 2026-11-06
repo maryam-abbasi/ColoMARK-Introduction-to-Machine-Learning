@@ -1,7 +1,7 @@
 # ColoMARK — Introduction to Machine Learning
 
 Materials for the 2.5-hour hands-on ML session, part of the **Workshop on
-Mendelian Randomisation & Machine Learning methods**, SBBS, University College
+Machine Learning methods**, SBBS, University College
 Dublin, 6 November 2026.
 
 Session lead: Maryam Abbasi (CIAC-PLDIS, Polytechnic University of Santarém).
